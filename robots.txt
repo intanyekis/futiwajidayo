@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://futiwajidayo.b-cdn.net/sitemap.xml
